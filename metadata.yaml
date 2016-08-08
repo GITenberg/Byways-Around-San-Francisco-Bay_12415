@@ -1,0 +1,29 @@
+_repo: Byways-Around-San-Francisco-Bay_12415
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hutchinson, William E.
+    birthdate: 1856
+    gutenberg_agent_id: '4353'
+    url: http://www.gutenberg.org/2009/agents/4353
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'San Francisco Bay Area (Calif.)'
+- GITenberg
+tableOfContents: Sunset in the Golden Gate (Poem) -- Brook and Waterfall -- Mountain
+  and Valley -- Cañon and Hillside -- Wild-cat Cañon -- Autumn Days (Poem) -- Around
+  the Camp Fire -- Trout Fishing in the Berkeley Hills -- On the Beach -- Muir Woods
+  -- San Francisco Bay (Poem) -- In Chinatown -- In a Glass-bottom Boat -- Fog on
+  the Bay -- Meiggs' Wharf -- The Stake and Rider Fence (Poem) -- Moonlight -- Mount
+  Tamalpais -- Bear Creek -- The Song of the Reel (Poem) -- The Old Road.
+title: Byways Around San Francisco Bay
+url: http://www.gutenberg.org/ebooks/12415
